@@ -27,3 +27,23 @@ The dataset consists of four csv pandas dataframes:
 - `df_train_labels.csv` : The Dataframe of labels for training 
 - `df_test.csv`: The Dataframe of features for test 
 - `df_test_labels.csv` : The Dataframe of labels for test
+
+The following images shows the columns in the `df_train` and `df_test_label` dataframes
+
+- `df_train`
+
+=============
+
+<p align="left">
+  <img src="https://github.com/mazenalamir/lorentz-atractor-blind-fault-detection-dataset/blob/main/images/df_train.png" width="30%">
+</p>
+
+- `df_test_label`
+
+=============
+
+<p align="left">
+  <img src="https://github.com/mazenalamir/lorentz-atractor-blind-fault-detection-dataset/blob/main/images/df_test_labels.png" width="30%">
+</p>
+
+
