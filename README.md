@@ -1,6 +1,8 @@
 # Lorentz-attractor-blind-fault-detection-dataset
 A small synthetic benchmark for blind anomaly detectors for industrial time series 
 
+## Description of the dataset 
+
 This is a synthetic dataset that might be used to challenge **Blind anomaly detector for time series **
 
 The dynamical system for which the dataset is created is the famous Lorentz attractor which is governed by the following set of Ordinary Differential Equations:
@@ -43,7 +45,11 @@ The following images shows the columns in the `df_train` and `df_test_label` dat
 =============
 
 <p align="left">
-  <img src="https://github.com/mazenalamir/lorentz-atractor-blind-fault-detection-dataset/blob/main/images/df_test_labels.png" width="30%">
+  <img src="https://github.com/mazenalamir/lorentz-atractor-blind-fault-detection-dataset/blob/main/images/df_test_labels.png" width="20%">
 </p>
+
+## Benchmark Description
+
+
 
 
