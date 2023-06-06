@@ -19,6 +19,8 @@ where $\sigma$, $\rho$ and $\beta$ are the parameters that might be affected by 
   <img src="https://github.com/mazenalamir/lorentz-atractor-blind-fault-detection-dataset/blob/main/images/fig_lorentz_0.png" width="50%">
 </p>
 
+Note that green regions corresponds to nominal parameters (normalized values = 1) while the red regions correspond to changes in the values of the parameters to be detected by the anomalies detector. 
+
 The dataset consists of four csv pandas dataframes: 
 
 - `df_train.csv`: The Dataframe of features for training 
