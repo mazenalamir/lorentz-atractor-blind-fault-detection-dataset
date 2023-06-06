@@ -13,8 +13,11 @@ $$
 \end{align} 	
 $$
 
-where $\sigma$, $\rho$ and $\beta$ are the parameters that might be affected by unpredictable changes one would like to detect thanks to the anomaly detector using the two measurement sensors defined by $s_1=x_1$ and $s_2=x_3$.
+where $\sigma$, $\rho$ and $\beta$ are the parameters that might be affected by unpredictable changes one would like to detect thanks to the anomaly detector using the two measurement sensors defined by $s_1=x_1$ and $s_2=x_3$. The raw version of the time series is given in the figure below:
 
+<p align="center">
+  <img src="https://github.com/mazenalamir/lorentz-atractor-blind-fault-detection-dataset/blob/main/images/fig_lorentz_0.png" width="50%">
+</p>
 
 The dataset consists of four csv pandas dataframes: 
 
