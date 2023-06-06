@@ -1,4 +1,4 @@
-# Lorentz-atractor-blind-fault-detection-dataset
+# Lorentz-attractor-blind-fault-detection-dataset
 A small synthetic benchmark for blind anomaly detectors for industrial time series 
 
 This is a synthetic dataset that might be used to challenge **Blind anomaly detector for time series **
