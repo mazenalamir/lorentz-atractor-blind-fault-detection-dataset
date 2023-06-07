@@ -50,6 +50,10 @@ The following images shows the columns in the `df_train` and `df_test_label` dat
   <img src="https://github.com/mazenalamir/lorentz-atractor-blind-fault-detection-dataset/blob/main/images/df_test_labels.png" width="20%">
 </p>
 
+### Important information on test data
+
+> Please note that the training data lies in the first block of the `df_test`dataset. If you want to draw statistic, it is important to know that the first 6-th part of the test data is simply the training data. It is therefore expected that you get *nice* results on this part of the test data.
+
 ## Benchmark Description
 
 Use the training dataset `df_train`in order to fit your anomalies detector. 
